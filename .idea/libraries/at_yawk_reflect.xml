@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="at.yawk.reflect" type="repository">
+    <properties maven-id="at.yawk.reflect:reflect:1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/at/yawk/reflect/reflect/1.0/reflect-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
